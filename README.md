@@ -32,7 +32,7 @@ This project builds a collaborative filtering recommendation engine for Steam ga
 ## Screenshots
 
 ### Sample Output: RMSE from MLflow Tracking
-![MLflow RMSE](screenshots/mlflow_rmse.png)
+![MLflow RMSE](screenshots/mlflow.png)
 
 ### Top 10 Game Recommendations
 ![Game Recs](screenshots/top_game_recommendations.png)
